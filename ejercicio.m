@@ -3,4 +3,4 @@ RUTA='C:\Users\cryte\Desktop\2020-3\INTELIGENCIA ARTIFICIAL\EJERCICIO_CAD';
 XML=smexportonshape (URL,'FolderPath', RUTA);
 
 figura=strcat(RUTA, '\', XML);
-smimport(figura);
+smimport(figura); 
